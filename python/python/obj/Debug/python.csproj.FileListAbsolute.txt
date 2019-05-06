@@ -1,0 +1,7 @@
+c:\users\102688864\source\repos\python\python\bin\Debug\python.exe.config
+c:\users\102688864\source\repos\python\python\bin\Debug\python.exe
+c:\users\102688864\source\repos\python\python\bin\Debug\python.pdb
+c:\users\102688864\source\repos\python\python\obj\Debug\python.csprojAssemblyReference.cache
+c:\users\102688864\source\repos\python\python\obj\Debug\python.csproj.CoreCompileInputs.cache
+c:\users\102688864\source\repos\python\python\obj\Debug\python.exe
+c:\users\102688864\source\repos\python\python\obj\Debug\python.pdb

@@ -1,0 +1,7 @@
+c:\users\102688864\source\repos\Variable task\Variable task\bin\Debug\Variable task.exe.config
+c:\users\102688864\source\repos\Variable task\Variable task\bin\Debug\Variable task.exe
+c:\users\102688864\source\repos\Variable task\Variable task\bin\Debug\Variable task.pdb
+c:\users\102688864\source\repos\Variable task\Variable task\obj\Debug\Variable task.csprojAssemblyReference.cache
+c:\users\102688864\source\repos\Variable task\Variable task\obj\Debug\Variable task.csproj.CoreCompileInputs.cache
+c:\users\102688864\source\repos\Variable task\Variable task\obj\Debug\Variable task.exe
+c:\users\102688864\source\repos\Variable task\Variable task\obj\Debug\Variable task.pdb
